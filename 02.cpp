@@ -2,8 +2,9 @@
 using namespace std;
 
 int main(){
-    int a = 14;
-    int b = 17;
+    int a = 14 , b= 17;
+    // int a = 14;
+    // int b = 17;
     float pi = 3.14;
     char c = 'p';
 
